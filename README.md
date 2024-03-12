@@ -1,1 +1,1 @@
-A thread scheduling simulation that implements Round-Robin algorithm.
+A thread scheduler that implements Round-Robin algorithm.
